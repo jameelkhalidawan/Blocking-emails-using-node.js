@@ -1,0 +1,7 @@
+in
+org
+---
+test.com
+---
+test@example.com
+spam@test.com
